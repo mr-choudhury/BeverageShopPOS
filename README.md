@@ -32,12 +32,18 @@ java BevShopDriverApp
 
 ## Lessons Learned
 •	Mastery of Java inheritance, interfaces, and abstract classes.
+
 •	Practical experience in developing and managing a GUI application.
+
 •	Understanding of JUnit testing and its importance in software development.
+
 ## Assumptions and Limitations
 •	The shop operates from 8 AM to 11 PM.
+
 •	The minimum age to order alcohol is 21.
+
 •	Limited to managing beverages of types Coffee, Alcohol, and Smoothie.
+
 
 ## Conclusion
 This project demonstrates advanced proficiency in Java programming, particularly in GUI development, OOP principles, and testing. The comprehensive management of beverage orders and detailed sales reporting showcases the ability to design and implement complex software solutions effectively.
