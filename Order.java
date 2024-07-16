@@ -1,23 +1,5 @@
 import java.util.ArrayList;
 import java.util.Random;
-
-/*
- * Description: Assignment 6 Beverage Shop
- * Software for a Beverage Shop that sells 3 types of beverages:
- * Coffee, Smoothie and Alcoholic. Beverages can be ordered in three
- * sizes: Small, Medium and Large. All Beverages have a base price 
- * that is set. There are additional charges depending on size and
- * specific add-ons dependent on type of beverage.
- * Software will allow new order creation and processing, provide
- * information on all orders, total amount on specific order, monthly
- * sales report as well as monthly total number of orders.
- *  			
- * Platform/compiler: Java Build 18.0.2.1/Eclipse IDE 4.24.0
- * 
- * Muhammad Choudhury
- *
- */
-
 /**
  * Class to represent an order. This class implements two interfaces: OrderInterface and Comparable.  
  * @version 12/08/2022
